@@ -12,19 +12,19 @@
 
 ## Table of Contents
 
-- [Before You Start (Prerequisites)](https://www.notion.so/0cf374da80fe4a4f96f826678b22bafd?pvs=21)
-- [Project Overview](https://www.notion.so/0cf374da80fe4a4f96f826678b22bafd?pvs=21)
-- [Hardware](https://www.notion.so/0cf374da80fe4a4f96f826678b22bafd?pvs=21)
-- [Toolchain](https://www.notion.so/0cf374da80fe4a4f96f826678b22bafd?pvs=21)
-- [Repo Layout](https://www.notion.so/0cf374da80fe4a4f96f826678b22bafd?pvs=21)
-- [Quick Start (STM32CubeIDE)](https://www.notion.so/0cf374da80fe4a4f96f826678b22bafd?pvs=21)
-- [Build & Flash](https://www.notion.so/0cf374da80fe4a4f96f826678b22bafd?pvs=21)
-- [Configuration via .ioc](https://www.notion.so/0cf374da80fe4a4f96f826678b22bafd?pvs=21)
-- [Debugging](https://www.notion.so/0cf374da80fe4a4f96f826678b22bafd?pvs=21)
-- [Coding Guidelines](https://www.notion.so/0cf374da80fe4a4f96f826678b22bafd?pvs=21)
-- [Troubleshooting](https://www.notion.so/0cf374da80fe4a4f96f826678b22bafd?pvs=21)
-- [Contributing](https://www.notion.so/0cf374da80fe4a4f96f826678b22bafd?pvs=21)
-- [License](https://www.notion.so/0cf374da80fe4a4f96f826678b22bafd?pvs=21)
+- [Before You Start (Prerequisites)]
+- [Project Overview]
+- [Hardware]
+- [Toolchain]
+- [Repo Layout]
+- [Quick Start (STM32CubeIDE)]
+- [Build & Flash]
+- [Configuration via .ioc]
+- [Debugging]
+- [Coding Guidelines]
+- [Troubleshooting]
+- [Contributing]
+- [License]
 
 ---
 
