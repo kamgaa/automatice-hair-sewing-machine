@@ -1,0 +1,3 @@
+../Core/Src/stepmotor.c:6:6:set_desired_angle_func	1
+../Core/Src/stepmotor.c:11:6:step_while_func	5
+../Core/Src/stepmotor.c:38:6:initStepMotor	1
